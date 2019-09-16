@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images copy/Actions-folder-new-icon.png</file>
+        <file>images copy/arrow13-512-1.png</file>
+        <file>images copy/arrow13-512.png</file>
+        <file>images copy/button_undo-128.png</file>
+        <file>images copy/Filter-512.png</file>
+        <file>images copy/flip-horizontally-design-graphic-tool-3bd1aae13ed68d2f-512x512.png</file>
+        <file>images copy/info-512.png</file>
+        <file>images copy/quit-512.png</file>
+        <file>images copy/save-icon-28.png</file>
+        <file>images copy/wrench-512.png</file>
+        <file>images copy/rotation-512.png</file>
+        <file>images copy/download copy.png</file>
+    </qresource>
+    <qresource prefix="/demo">
+        <file>royce.jpg</file>
+    </qresource>
+</RCC>
